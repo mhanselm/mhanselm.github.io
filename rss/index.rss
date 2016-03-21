@@ -1,0 +1,112 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>Matthew Hanselman</title><description>Thoughts, stories and ideas.</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sun, 20 Mar 2016 20:48:32 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>DealData</title><description>&lt;p&gt;DealData provides a comprehensive database of Commercial Real Estate leasing information across Australia. Property agents, valuers, researchers and other industry professionals use DealData daily to make informed commercial decisions.&lt;/p&gt;</description><link>http://localhost:2368/dealdata/</link><guid isPermaLink="false">9e27ed13-53a1-4d7f-a4f1-bb9c049d5963</guid><category>Design</category><category>Web</category><category>Server</category><category>Startup</category><dc:creator>Matthew Hanselman</dc:creator><pubDate>Tue, 26 Jan 2016 05:17:41 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/01/Screen-Shot-2016-01-23-at-4-57-56-PM.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/01/Screen-Shot-2016-01-23-at-4-57-56-PM.png" alt="DealData"&gt;&lt;p&gt;DealData provides a comprehensive database of Commercial Real Estate leasing information across Australia. Property agents, valuers, researchers and other industry professionals use DealData daily to make informed commercial decisions.&lt;/p&gt;</content:encoded></item><item><title>TritonWear</title><description>&lt;p&gt;TritonWear is empowering coaches by giving them the right tools and resources to make data driven decisions in their sport. Focusing on competitive swimming, the Triton is a wearable device that captures swimmers' metrics in real-time.&lt;/p&gt;
+
+&lt;p&gt;Learn more:  &lt;a href="http://tritonwear.com/" target="_blank"&gt;http://tritonwear.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="iosandroidapp"&gt;iOS &amp;amp; Android App&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="webservices"&gt;Web Services&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="webapp"&gt;Web App&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="desktopapp"&gt;Desktop&lt;/h2&gt;</description><link>http://localhost:2368/tritonwear/</link><guid isPermaLink="false">172f49e7-edc8-4511-85d3-c2da241d5bb6</guid><category>iOS</category><category>Web</category><category>Design</category><category>Startup</category><category>Server</category><category>Android</category><category>Mac</category><category>Windows</category><dc:creator>Matthew Hanselman</dc:creator><pubDate>Tue, 19 Jan 2016 03:28:18 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/01/blog_banner.jpg" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/01/blog_banner.jpg" alt="TritonWear"&gt;&lt;p&gt;TritonWear is empowering coaches by giving them the right tools and resources to make data driven decisions in their sport. Focusing on competitive swimming, the Triton is a wearable device that captures swimmers' metrics in real-time.&lt;/p&gt;
+
+&lt;p&gt;Learn more:  &lt;a href="http://tritonwear.com/" target="_blank"&gt;http://tritonwear.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="iosandroidapp"&gt;iOS &amp;amp; Android App&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="webservices"&gt;Web Services&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="webapp"&gt;Web App&lt;/h2&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="desktopapp"&gt;Desktop App&lt;/h2&gt;
+
+&lt;hr&gt;</content:encoded></item><item><title>Fradio</title><description>&lt;p&gt;Fradio is your personal radio station, run live from your phone. Create a broadcast, invite your friends, interact while you all jam out together.&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/J21pf5dhAVI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Learn more: &lt;a href="http://www.fradio.com/" target="_blank"&gt;http://www.fradio.com/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The 2nd quarter of 2014, Guvera decided to launch a new app around the idea of hosting a live radio&lt;/p&gt;</description><link>http://localhost:2368/fradio/</link><guid isPermaLink="false">f327b61b-a338-4dff-a401-9631f7f136ab</guid><category>Server</category><category>iOS</category><category>Web</category><category>Audio Processing</category><dc:creator>Matthew Hanselman</dc:creator><pubDate>Tue, 19 Jan 2016 03:28:00 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/01/Screen-Shot-2016-01-23-at-3-23-03-PM.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/01/Screen-Shot-2016-01-23-at-3-23-03-PM.png" alt="Fradio"&gt;&lt;p&gt;Fradio is your personal radio station, run live from your phone. Create a broadcast, invite your friends, interact while you all jam out together.&lt;/p&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/J21pf5dhAVI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Learn more: &lt;a href="http://www.fradio.com/" target="_blank"&gt;http://www.fradio.com/&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The 2nd quarter of 2014, Guvera decided to launch a new app around the idea of hosting a live radio broadcast from your phone to share with your friends and the world. Lots of hype around sharing music and Guvera needed another way to engage new users. No other similar apps exist in the app stores.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/radio-mic-image-on-air1-663x389.jpg" alt="Fradio"&gt;&lt;/p&gt;
+
+&lt;h2 id="fradiofriendsradiowasborn"&gt;Fradio, Friends + Radio was born.&lt;/h2&gt;
+
+&lt;p&gt;Many months were spent to determine the core value proposition and key feature list.  The main idea was to bring friends or anyone together to listen to a radio show where the broadcaster got to control the flow of music and interact with his/her listeners.  The ultimate goal of the product is to attract new users to the Guvera music platform.  The major requirements for the app were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create a broadcast at any time with their music from Guvera&lt;/li&gt;
+&lt;li&gt;Invite your friends via push notification, email, or sharing a link&lt;/li&gt;
+&lt;li&gt;Allow anyone to listen in to a broadcast on their mobile device&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Allow the broadcaster to receive &amp;amp; answer incoming calls from listeners&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Allow the broadcaster and listeners to comment in a group chat&lt;/li&gt;
+&lt;li&gt;Available in Apple App Store &amp;amp; Google Play Store&lt;/li&gt;
+&lt;li&gt;Website with list of past, present and future broadcasts&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We had some very talented designers on our team that incorporated all of these features into a wicked package.  As for engineering efforts, the majority of these features (messaging, sharing, website) have been done before so we implemented industry standards.  The largest and most difficult feat would be how to integrate a live phone call with music and broadcast it to all listeners. And do this for a large scale audience, approx. &lt;strong&gt;1 million concurrent listeners&lt;/strong&gt;. This required a solution that would &lt;strong&gt;multiplex two different live audio sources into one&lt;/strong&gt; and encoded for &lt;strong&gt;streaming on iOS &amp;amp; Android devices from anywhere in the world&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/stream.jpg" alt="Fradio"&gt;&lt;/p&gt;
+
+&lt;h2 id="cloudmixingforliveradio"&gt;Cloud mixing for live radio&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/02/Group.jpg" alt="Fradio"&gt;&lt;/p&gt;
+
+&lt;h2 id="itsalive"&gt;It's Alive!!&lt;/h2&gt;
+
+&lt;p&gt;Fradio finally went live after 8 months of development and kicked off with a high school campaign during their annual summer festivities.  It was well received by the target market (teens and young adults who love to share content, especially music) and has since been debuted with the Fradio Booth at SXSW 2015. What are you waiting for? Create your own broadcast today!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://itunes.apple.com/au/app/fradio-your-personal-radio/id908858323?mt=8" target="_blank"&gt;App Store&lt;/a&gt;
+&lt;a href="https://itunes.apple.com/au/app/fradio-your-personal-radio/id908858323?mt=8" target="_blank"&gt;Google Play Store&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In the news:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://techcrunch.com/2015/03/18/fradios-new-app-lets-anyone-be-a-dj-broadcast-live-radio-to-friends-and-fans/" target="_blank"&gt;TechCrunch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://gizmodo.com/our-favorite-android-ios-and-windows-phone-apps-of-th-1692384617" target="_blank"&gt;Gizmodo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://smashd.co/im-the-radio/" target="_blank"&gt;Smashd&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title>Guvera</title><description>Guvera music streaming service available on iOS, Android and the web.</description><link>http://localhost:2368/guvera/</link><guid isPermaLink="false">efeb2b30-e490-4c67-9b32-1a594f439e15</guid><category>Web</category><category>Server</category><category>Design</category><category>iOS</category><dc:creator>Matthew Hanselman</dc:creator><pubDate>Tue, 19 Jan 2016 03:27:52 GMT</pubDate><media:content url="http://localhost:2368/content/images/2016/01/Screen-Shot-2016-01-23-at-2-00-04-PM.png" medium="image"/><content:encoded>&lt;img src="http://localhost:2368/content/images/2016/01/Screen-Shot-2016-01-23-at-2-00-04-PM.png" alt="Guvera"&gt;&lt;p&gt;Guvera is an international, ad-funded music streaming service available on iOS, Android &amp;amp; web. It has hands-down the best free, on-demand mobile offering for Australian residents and a free radio service for international users.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2016/01/tabs4.jpg" alt="Guvera"&gt;&lt;/p&gt;
+
+&lt;h2 id="webapplication"&gt;Web Application&lt;/h2&gt;
+
+&lt;p&gt;As the lead developer of the new Guvera web application in 2014, we had a massive task at hand.  We decided early on that an entire re-write was required (backend web services existed). The designers had free range to come up with a new look and feel for the web that matched with the mobile apps. I worked with two talented designers to come up the the current concept.  We started with simple lists of newly released songs, albums, featured playlists and a static player.  Quickly the app grew with slick features including type to search, ability to follow users and playlists and something special called #play!&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;iframe src="https://embed.guvera.com/playlists/928667" height="300" width="100%" frameborder="0"&gt;&lt;/iframe&gt;  
+
+&lt;h2 id="embeddedplayer"&gt;Embedded Player&lt;/h2&gt;
+
+&lt;p&gt;Our major goal was trying to relaunch the brand and the focus was on new user acquisition and partnerships to spread the word. We invested about 2 weeks into designing and developing a new embedded player to allow users and partners to host their own playlists.  The goal was to allow them to listen to 30 second previews of each song and attract new users to Guvera in order to listen in full.  We utilized &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="webservices"&gt;Web Services&lt;/h2&gt;
+
+&lt;p&gt;After tackling the first major release for the web, I started to get familiar with the server side code.  &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id="iosapp"&gt;iOS App&lt;/h2&gt;
+
+&lt;p&gt;I love to learn.  When I find something getting too slow or I'm not learning enough, I'm on to the next thing. Up next iOS development.  I hadn't touched C# since university but I was up for the challenge. After a few weeks I was right into development and working on new features for the Guvera app.  As I had done in the past, I found it best to write my own server side code and test it out using a client, this time the iOS app.&lt;/p&gt;</content:encoded></item></channel></rss>
